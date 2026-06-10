@@ -6,7 +6,7 @@ Usage:
 """
 import sys
 import pandas as pd
-from recsys import clean_transactions
+from src.recsys import clean_transactions
 
 def main(xlsx="online_retail_II.xlsx"):
     frames = []

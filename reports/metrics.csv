@@ -1,0 +1,4 @@
+,precision@10,recall@10,MAP@10,hits,users
+Popularity,0.0049,0.0489,0.0189,270.0,5519.0
+ItemItemCF,0.0172,0.1716,0.0817,947.0,5519.0
+MatrixFactorization,0.0213,0.2125,0.0941,1173.0,5519.0

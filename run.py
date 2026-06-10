@@ -4,7 +4,7 @@ Run:  python run.py   (needs data/interactions.csv — see data/README.md)
 """
 import os
 import pandas as pd
-import recsys as R
+import src.recsys as R
 
 K = 10
 os.makedirs("reports", exist_ok=True)
